@@ -1,5 +1,5 @@
 # Hi, I'm Goofy 👋
-Junior in high school with a passion for AI, robotics, and forms of programming<br>Currently working on projects related to AI, machine learning, and robotics<br><br>I'm a self-taught developer hoping to learn with every project I do!
+Senior in high school with a passion for AI, robotics, and forms of programming<br>Currently working on projects related to AI, machine learning, and robotics<br><br>I'm a self-taught developer hoping to learn with every project I do!
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif">
 
 ## 🌐 Socials:
