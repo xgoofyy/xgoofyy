@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif">
 
-Computer Engineering freshman @ RU-NB with a passion for AI, robotics, and forms of programming.<br><br>Currently hoping to work on projects related to SWE and app development.<br><br>I'm a self-taught developer hoping to learn with every project I do!
+Computer Engineering sophomore @ RU-NB with a passion for AI, robotics, and forms of programming.<br><br>Currently hoping to work on projects related to SWE and app development.<br><br>I'm a self-taught developer hoping to learn with every project I do!
 
 ## [💻 My Site](http://arnoldzamora.me/)
 
